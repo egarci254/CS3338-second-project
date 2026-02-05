@@ -1,0 +1,43 @@
+commit 55a3ddb039a2d0b8c20257b2c9f37f757a7eabc5
+Merge: 84be9b7 725b7d3
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 15:36:54 2026 -0800
+
+    fixed syntax erros
+
+commit 84be9b7451b8d9e625a0d6f393b77fa434d86b1e
+Merge: 77bbf86 f431f55
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 15:28:12 2026 -0800
+
+    Resolved merge conflict
+
+commit f431f55adf278dda5058ef7ff7182235a1d3b975
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 15:06:59 2026 -0800
+
+    added fav game
+
+commit 77bbf86e0e5fb009c07c9a8ad96e6011e0308318
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 15:04:15 2026 -0800
+
+    Add favorite food to main
+
+commit 2d98f213af5a8d9a634f4b35920b69e8f8c1d221
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 14:39:25 2026 -0800
+
+    This is a repo where we fill in the blanks on the index.html file.
+
+commit 725b7d3363265894afd91cb40547bc237ace832b
+Author: egarci254 <ervingarcia1710@icloud.com>
+Date:   Thu Feb 5 14:25:53 2026 -0800
+
+    Filled in the blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
